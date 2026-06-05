@@ -1,7 +1,7 @@
 ---
-title: EGA 뷰티 아카이브
+title: EGA Youtube 아카이브
 ---
-# EGA 뷰티 아카이브
+# EGA Youtube 아카이브
 
 일본 뷰티 유튜버 에가(EGA) 영상 정리본. 영상 72편 · 제품 348개 · 봇 자동 갱신.
 
