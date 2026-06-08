@@ -4,6 +4,7 @@ title: "메디큐브 부스터 Pro (X2 이전 모델)"
 brands: ["메디큐브"]
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — X2 이전 세대 메디큐브 부스터 Pro. X2 에서 마스크팩 모드가 추가되고 일부 모드가 2배로 강화됐다고 설명. 기능은 X2 와 거의 동일하지만 구형. 헤드 크기·디자인 면에서도 X2 가 우위. X2 이전 사용자나 가격 인하 시 고려 가능한 옵션.
 

@@ -4,6 +4,7 @@ title: "메디큐브 부스터Pro2X"
 brands: ["메디큐브"]
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편]]  ([Notion](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621) · [YouTube](https://youtu.be/0xVGuKlKB3I))
+### [【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621)  ([YouTube](https://youtu.be/0xVGuKlKB3I))
 
 **총평** — 다양한 기능을 원하는 사용자에게 추천, 피부 상태 분석 기능이 유용함
 

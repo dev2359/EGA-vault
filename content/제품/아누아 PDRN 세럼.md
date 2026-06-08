@@ -4,6 +4,7 @@ title: "아누아 PDRN 세럼"
 brands: ["아누아"]
 categories: ["세럼"]
 efficacies: ["보습", "장벽"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】놓치지 마세요‼︎ 올해 1년 중 '최고의 제품'을 소개함!!]]  ([Notion](https://www.notion.so/Qoo10-1-3667aa4b7b0f81e5abe7e990dee0dfb5) · [YouTube](https://youtu.be/7g9cbJFWQ4k))
+### [【Qoo10 메가 세일】놓치지 마세요‼︎ 올해 1년 중 '최고의 제품'을 소개함!!](https://www.notion.so/Qoo10-1-3667aa4b7b0f81e5abe7e990dee0dfb5)  ([YouTube](https://youtu.be/7g9cbJFWQ4k))
 
 **총평** — 추천 — PDRN 라인 중 가장 수분 잔류 강한 제품. 보습 + 피부 장벽 강화 효과 우수, 다양한 피부 타입에 적합.
 

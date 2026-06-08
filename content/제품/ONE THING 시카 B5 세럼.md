@@ -4,6 +4,7 @@ title: "ONE THING 시카 B5 세럼"
 brands: ["ONE THING"]
 categories: ["세럼"]
 efficacies: ["보습", "진정", "트러블/여드름"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9) · [YouTube](https://youtu.be/XyihsXZYe1k))
+### [【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9)  ([YouTube](https://youtu.be/XyihsXZYe1k))
 
 **총평** — 여드름 피부용 세럼의 새 라인업. 붉은기를 빠르게 가라앉히고 사용감이 가벼우며, 차가운 느낌과 함께 발리는 순간이 매우 좋음. 판테놀 베이스로 보습력도 양호. ONE THING 의 병풀 라인과는 결이 완전히 다른 신규 포지션.
 

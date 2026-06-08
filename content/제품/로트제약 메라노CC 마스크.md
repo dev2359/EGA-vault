@@ -4,6 +4,7 @@ title: "로트제약 메라노CC 마스크"
 brands: ["메라노CC"]
 categories: ["마스크"]
 efficacies: ["미백"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】일본 스킨케어 추천을 진행함. 부족해!]]  ([Notion](https://www.notion.so/Qoo10-3647aa4b7b0f81d88fbac96b837051d1) · [YouTube](https://youtu.be/nXiTPAMMM-A))
+### [【Qoo10 메가 세일】일본 스킨케어 추천을 진행함. 부족해!](https://www.notion.so/Qoo10-3647aa4b7b0f81d88fbac96b837051d1)  ([YouTube](https://youtu.be/nXiTPAMMM-A))
 
 **총평** — 미백과 잡티 개선을 원하는 사람에게 추천. 가격 대비 효능 우수.
 

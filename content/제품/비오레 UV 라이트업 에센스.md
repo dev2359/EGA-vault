@@ -4,6 +4,7 @@ title: "비오레 UV 라이트업 에센스"
 brands: ["비오레"]
 categories: ["선크림", "에센스", "크림"]
 efficacies: ["미백", "자외선차단"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【절대 알아야 할!!】선크림을 선택하기 전에 알아야 할 것들에 대해 이야기합니다]]  ([Notion](https://www.notion.so/3677aa4b7b0f81f2923cd3d4e1d73746) · [YouTube](https://youtu.be/qTbkwujCCiI))
+### [【절대 알아야 할!!】선크림을 선택하기 전에 알아야 할 것들에 대해 이야기합니다.](https://www.notion.so/3677aa4b7b0f81f2923cd3d4e1d73746)  ([YouTube](https://youtu.be/qTbkwujCCiI))
 
 **총평** — 비오레 UV 라이트업 에센스는 피부를 하얗게 만들어주며, 자외선 차단 효과가 뛰어나고.
 

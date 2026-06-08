@@ -3,7 +3,8 @@ type: 제품
 title: "SHIMBI METHOD 신마 크림"
 brands: ["SHIMBI METHOD"]
 categories: ["크림"]
-efficacies: ["보습", "장벽", "주름/탄력", "피지"]
+efficacies: ["보습", "장벽", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[SHIMBI METHOD]] · 효능: [[보습]], [[장벽]], [[주름-탄력]], [[피지]] · 카테고리: [[크림]]
+브랜드: [[SHIMBI METHOD]] · 효능: [[보습]], [[장벽]], [[주름-탄력]] · 카테고리: [[크림]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2025 베스트 코스】최고로 좋았던 제품들 소개할게요!!!!]]  ([Notion](https://www.notion.so/2025-36c7aa4b7b0f811387aae35dbc7357fe) · [YouTube](https://youtu.be/ZNeZWys5a0w))
+### [【2025 베스트 코스】최고로 좋았던 제품들 소개할게요!!!!](https://www.notion.so/2025-36c7aa4b7b0f811387aae35dbc7357fe)  ([YouTube](https://youtu.be/ZNeZWys5a0w))
 
 **총평** — 크림 1위. 우레아 (요소) + 펩티드 + 세라마이드 함유. 우레아가 피부 내측 수분을 외측으로 끌어내 "프루프루" 수분감 폭발. 일반 크림이 외→내 보습이라면 신비 신마는 내→외 보습. 수분 강화 + 세라마이드로 장벽 강화 + 펩티드로 탄력. 자고 일어났을 때 피부 수분량 차이가 명확.
 

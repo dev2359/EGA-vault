@@ -4,6 +4,7 @@ title: "U 브라이트"
 brands: []
 categories: []
 efficacies: ["미백", "자외선차단"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[태양이 미용기기로! 가까운 미래의 자외선 차단제]]  ([Notion](https://www.notion.so/3607aa4b7b0f8122b70be695d63ff67e) · [YouTube](https://youtu.be/EnbaWSbjB_U))
+### [태양이 미용기기로! 가까운 미래의 자외선 차단제](https://www.notion.so/3607aa4b7b0f8122b70be695d63ff67e)  ([YouTube](https://youtu.be/EnbaWSbjB_U))
 
 **총평** — 미래의 발전 가능성은 있으나 현재는 대중화 어려움. 기술적 혁신을 기대하는 사용자에게 적합함.
 

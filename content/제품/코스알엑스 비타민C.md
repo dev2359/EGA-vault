@@ -3,7 +3,8 @@ type: 제품
 title: "코스알엑스 비타민C"
 brands: ["코스알엑스"]
 categories: []
-efficacies: ["모공", "주름/탄력", "진정"]
+efficacies: ["모공", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[코스알엑스]] · 효능: [[모공]], [[주름-탄력]], [[진정]]
+브랜드: [[코스알엑스]] · 효능: [[모공]], [[주름-탄력]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[사야 한다면 이거!❗️❗️Qoo10 메가 세일에서 모공 아이템 모음]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f818f821df7427404d03f) · [YouTube](https://youtu.be/X1y1-ThcsRU))
+### [사야 한다면 이거!❗️❗️Qoo10 메가 세일에서 모공 아이템 모음.](https://app.notion.com/p/Qoo10-3797aa4b7b0f818f821df7427404d03f)  ([YouTube](https://youtu.be/X1y1-ThcsRU))
 
 **총평** — 사용 후 끈적임이 심해 초보자보다는 중급자 이상에게 적합한 제품.
 

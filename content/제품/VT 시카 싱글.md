@@ -4,6 +4,7 @@ title: "VT 시카 싱글"
 brands: ["VT"]
 categories: []
 efficacies: ["트러블/여드름", "피지"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】여드름 특집‼️ 진심으로 고민했기에 전할 수 있는 이야기!!]]  ([Notion](https://app.notion.com/p/Qoo10-3767aa4b7b0f813ab1e0deeccd3dab8d) · [YouTube](https://youtu.be/q30p3Msmj2g))
+### [【Qoo10 메가 세일】여드름 특집‼️ 진심으로 고민했기에 전할 수 있는 이야기!!](https://app.notion.com/p/Qoo10-3767aa4b7b0f813ab1e0deeccd3dab8d)  ([YouTube](https://youtu.be/q30p3Msmj2g))
 
 **총평** — VT 시카 싱글은 혼합성 피부 중에서도 지성 피부에 적합하며, 특히 심한 여드름에 효과적.
 

@@ -4,6 +4,7 @@ title: "코스테바 카페인 TW"
 brands: []
 categories: []
 efficacies: ["미백"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2026福袋】작년보다 압도적으로 업그레이드된 복주머니 시작함!! ※끝까지 봐주세요]]  ([Notion](https://www.notion.so/2026-3617aa4b7b0f819b92f0ea7683277b54) · [YouTube](https://youtu.be/y745C__AHC0))
+### [【2026福袋】작년보다 "압도적으로 업그레이드"된 복주머니 시작함!! ※끝까지 봐주세요](https://www.notion.so/2026-3617aa4b7b0f819b92f0ea7683277b54)  ([YouTube](https://youtu.be/y745C__AHC0))
 
 **총평** — 미백과 투명감 개선에 효과적이며 추천. 피부 톤 개선을 원하는 사람에게 적합.
 

@@ -4,6 +4,7 @@ title: "클리오 AHA 8% BHA 2% 필링 토너"
 brands: []
 categories: ["토너"]
 efficacies: ["각질"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!]]  ([Notion](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883) · [YouTube](https://youtu.be/1yMTtm-98r0))
+### [【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883)  ([YouTube](https://youtu.be/1yMTtm-98r0))
 
 **총평** — 화장수 3위 (동률). AHA 8% + BHA(살리실산) 2% 함유 필링 토너. 한국 클리오. 일반적인 chid 필링 대비 자극이 거의 없어 강한 피부에 부담 없고 약한 피부도 약한 자극 정도. 전반적으로 매우 좋은 평가.
 

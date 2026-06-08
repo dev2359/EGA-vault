@@ -4,6 +4,7 @@ title: "신비 (SHIMBI METHOD) 신마 크림 (젤 / 크림 2종)"
 brands: ["SHIMBI METHOD"]
 categories: ["크림"]
 efficacies: ["보습", "장벽", "주름/탄력", "피지"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】꼭 사용해야 할‼︎ 상반기 베스트 코스메틱 소개합니다]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2) · [YouTube](https://youtu.be/z8f3dx5eZnA))
+### [【Qoo10 메가 세일】"꼭 사용해야 할‼︎" 상반기 베스트 코스메틱 소개합니다](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2)  ([YouTube](https://youtu.be/z8f3dx5eZnA))
 
 **총평** — 신비/神備/SHIMBI METHOD 의 시그니처 크림. 세라마이드 5종 (인형 세라마이드 포함) + 시카(센텔라) 엑소좀 + 펩타이드 4종 + 요소(尿素) 조합. 요소가 피부 안쪽에서 바깥으로 수분 끌어내는 메커니즘 (일반 크림 바깥→안쪽 보습과 차별). 베스코스 3번째 추천. 지성: 젤 타입 / 건조: 크림 타입 2종 라인업.
 

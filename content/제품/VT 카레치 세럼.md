@@ -3,7 +3,8 @@ type: 제품
 title: "VT 카레치 세럼"
 brands: ["VT"]
 categories: ["세럼"]
-efficacies: ["보습", "주름/탄력"]
+efficacies: ["주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[VT]] · 효능: [[보습]], [[주름-탄력]] · 카테고리: [[세럼]]
+브랜드: [[VT]] · 효능: [[주름-탄력]] · 카테고리: [[세럼]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】놓치지 마세요‼︎ 올해 1년 중 '최고의 제품'을 소개함!!]]  ([Notion](https://www.notion.so/Qoo10-1-3667aa4b7b0f81e5abe7e990dee0dfb5) · [YouTube](https://youtu.be/7g9cbJFWQ4k))
+### [【Qoo10 메가 세일】놓치지 마세요‼︎ 올해 1년 중 '최고의 제품'을 소개함!!](https://www.notion.so/Qoo10-1-3667aa4b7b0f81e5abe7e990dee0dfb5)  ([YouTube](https://youtu.be/7g9cbJFWQ4k))
 
 **총평** — 추천 — 피부 개선에 적합
 

@@ -4,6 +4,7 @@ title: "유스 비타민C 제품"
 brands: []
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -16,7 +17,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[광고에서 자주 보는 【수상한 제품 4선】을 철저히 리뷰해보자]]  ([Notion](https://app.notion.com/p/4-3797aa4b7b0f813fab0cf0d39b66cf9e) · [YouTube](https://youtu.be/w2Rg400A0ZY))
+### [광고에서 자주 보는 【수상한 제품 4선】을 철저히 리뷰해보자.](https://app.notion.com/p/4-3797aa4b7b0f813fab0cf0d39b66cf9e)  ([YouTube](https://youtu.be/w2Rg400A0ZY))
 
 **총평** — 가격 대비 성분 구성 아쉬움
 

@@ -4,6 +4,7 @@ title: "아누아 PDRN 토너"
 brands: ["아누아"]
 categories: ["토너"]
 efficacies: ["모공", "미백", "보습", "주름/탄력", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9) · [YouTube](https://youtu.be/XyihsXZYe1k))
+### [【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9)  ([YouTube](https://youtu.be/XyihsXZYe1k))
 
 **총평** — 수분 + 붉은기 케어 중심의 토너로 미백/주름/모공 효과는 약하지만 본인이 계속 쓰고 있는 제품. PDRN을 침투시키기 위해 분자 사이즈를 작게 한 결과 수분량이 매우 높아짐. 기본 스킨케어 데크에 넣고 싶다고 표현.
 

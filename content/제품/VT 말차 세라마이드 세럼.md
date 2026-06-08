@@ -4,6 +4,7 @@ title: "VT 말차 세라마이드 세럼"
 brands: ["VT"]
 categories: ["세럼"]
 efficacies: ["보습", "장벽", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편]]  ([Notion](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621) · [YouTube](https://youtu.be/0xVGuKlKB3I))
+### [【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621)  ([YouTube](https://youtu.be/0xVGuKlKB3I))
 
 **총평** — VT 말차 세라마이드 세럼은 오일과 수분이 반반으로 나뉘어져 있어 사용하기 편리하며, 보습력이 뛰어나고 피부에 부담 없이 흡수되는 제품.
 

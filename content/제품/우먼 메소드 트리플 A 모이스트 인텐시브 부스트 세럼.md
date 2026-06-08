@@ -3,7 +3,8 @@ type: 제품
 title: "우먼 메소드 트리플 A 모이스트 인텐시브 부스트 세럼"
 brands: []
 categories: ["세럼"]
-efficacies: ["모공", "보습", "장벽", "트러블/여드름"]
+efficacies: ["보습", "장벽"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-효능: [[모공]], [[보습]], [[장벽]], [[트러블-여드름]] · 카테고리: [[세럼]]
+효능: [[보습]], [[장벽]] · 카테고리: [[세럼]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【직업 스킨케어가 선택한】효과가 저렴한 가격대가 아닌 화장품, 여드름과 모공으로 선택한 제품은 이거다]]  ([Notion](https://app.notion.com/p/3767aa4b7b0f81a281bfd756684d50c3) · [YouTube](https://youtu.be/03UXOXwflME))
+### [【직업 스킨케어가 선택한】효과가 저렴한 가격대가 아닌 화장품, 여드름과 모공으로 선택한 제품은 이거다.](https://app.notion.com/p/3767aa4b7b0f81a281bfd756684d50c3)  ([YouTube](https://youtu.be/03UXOXwflME))
 
 **총평** — 매일 사용하기 적합
 

@@ -3,7 +3,8 @@ type: 제품
 title: "로트제약 RX -7"
 brands: ["로트제약"]
 categories: []
-efficacies: ["모공", "미백", "보습", "트러블/여드름"]
+efficacies: ["미백", "트러블/여드름"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[로트제약]] · 효능: [[모공]], [[미백]], [[보습]], [[트러블-여드름]]
+브랜드: [[로트제약]] · 효능: [[미백]], [[트러블-여드름]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[2023년 상반기 최고의 스킨케어 제품을 알려드릴게요! 【여드름 모공 건조】]]  ([Notion](https://app.notion.com/p/2023-3797aa4b7b0f8169980ee84355b5beb1) · [YouTube](https://youtu.be/GHbFWx8XhiI))
+### [2023년 상반기 최고의 스킨케어 제품을 알려드릴게요! 【여드름 모공 건조】](https://app.notion.com/p/2023-3797aa4b7b0f8169980ee84355b5beb1)  ([YouTube](https://youtu.be/GHbFWx8XhiI))
 
 **총평** — 피부 자극 주의 필요, 자극도 강하고 따끔따끔함
 

@@ -4,7 +4,8 @@ title: "메라노CC"
 brands: ["메라노CC"]
 categories: ["세럼", "토너", "팩"]
 efficacies: ["모공", "미백", "진정", "트러블/여드름"]
-videos: 7
+aliases: ["메라노 CC"]
+videos: 9
 ---
 
 # 메라노CC
@@ -14,12 +15,39 @@ videos: 7
 브랜드: [[메라노CC]] · 효능: [[모공]], [[미백]], [[진정]], [[트러블-여드름]] · 카테고리: [[세럼]], [[토너]], [[팩]]
 
 
-> 7개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 9개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 표기 병합: 메라노 CC
 
 
 ## 에가의 평가
 
-### [[【초유료급‼︎】4000명이 선택한 역대 최고의 세럼 피부 타입별 랭킹]]  ([Notion](https://www.notion.so/4000-3647aa4b7b0f8140ba5dfb4818c9ae56) · [YouTube](https://youtu.be/VEGSotjE9k8))
+### [【가성비 좋은 스킨케어】솔직히 어떤 게 좋을까? 모든 제품 리뷰함!!](https://www.notion.so/3607aa4b7b0f8189b3bac3b2d5b58119)  ([YouTube](https://youtu.be/87UnW1Nl8FU))
+
+**총평** — 피부 톤 개선을 원하는 사용자에게 추천. 민감한 피부는 주의 필요.
+
+**긍정**
+- 미백 및 여드름 개선 효과 기대
+- 피부 톤 개선 경험
+
+**부정**
+- 일부 사용자에게 여드름 개선 효과 미미
+- 피부가 민감한 경우 자극 가능
+
+**차별점**
+- 프리미엄 제품은 일반 제품보다 효과가 빠르고 강력
+
+### [【2026년 베스트 코스】가성비 좋은 토너, 최근 진짜 대박인데 솔직하게 평가해볼게요‼︎!](https://www.notion.so/2026-3647aa4b7b0f81fc9b9fef744345ee02)  ([YouTube](https://youtu.be/HqCYe-uiXsQ))
+
+**총평** — 비타민 C 유도체로 피부 톤 개선에 효과적임. 저렴한 가격에 미백 효과를 원하는 사용자에게 추천.
+
+**긍정**
+- 자극이 적고 사용하기 쉬움
+- 미백 효과 개선
+
+**차별점**
+- 비타민 C 유도체 농도 강화로 미백 효과 개선
+
+### [【초유료급‼︎】4000명이 선택한 "역대 최고의 세럼" 피부 타입별 랭킹](https://www.notion.so/4000-3647aa4b7b0f8140ba5dfb4818c9ae56)  ([YouTube](https://youtu.be/VEGSotjE9k8))
 
 **총평** — 여드름 자국 개선이 필요한 민감한 피부에 추천.
 
@@ -27,11 +55,11 @@ videos: 7
 - 여드름 자국에 효과적임
 - 자극이 적음
 
-### [[2025년 마지막에 확실히 정리함]]  ([Notion](https://www.notion.so/2025-3667aa4b7b0f81bb9990e1e1edef8d65) · [YouTube](https://youtu.be/0aQ1Vhz4WVs))
+### [2025년 마지막에 확실히 정리함.](https://www.notion.so/2025-3667aa4b7b0f81bb9990e1e1edef8d65)  ([YouTube](https://youtu.be/0aQ1Vhz4WVs))
 
 **총평** — 메라노CC 는 비타민 토너와 비교했을 때 더 나은 선택일 수 있음.
 
-### [[【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9) · [YouTube](https://youtu.be/ASTKI_nU1Sg))
+### [【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요.](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9)  ([YouTube](https://youtu.be/ASTKI_nU1Sg))
 
 **총평** — 비타민C 미백 세럼. 아누아 비타민 토너보다 효과 체감 우수. 가격 2,890엔으로 가성비 압도적. 일본 미백 비타민C 카테고리에서 톱급.
 
@@ -43,14 +71,14 @@ videos: 7
 **부정**
 - 사용감 무거운 편 — 호불호 갈림
 
-### [[【신의 회차 short로는 안 되는..】이걸로 알 수 있어❗️❗️모공 여드름 여드름 자국 제품 전부.(세럼 팩 토너 편) 2022]]  ([Notion](https://app.notion.com/p/short-2022-3767aa4b7b0f816bb0ffeb6b6b31d553) · [YouTube](https://youtu.be/uqnAl21FaJY))
+### [【신의 회차 short로는 안 되는..】이걸로 알 수 있어❗️❗️모공 여드름 여드름 자국 제품 전부.(세럼 팩 토너 편) 2022](https://app.notion.com/p/short-2022-3767aa4b7b0f816bb0ffeb6b6b31d553)  ([YouTube](https://youtu.be/uqnAl21FaJY))
 
 **총평** — 피부 톤 개선에 적합
 
 **긍정**
 - 피부 톤 개선에 도움
 
-### [[【직업 스킨케어가 선택한】효과가 저렴한 가격대가 아닌 화장품, 여드름과 모공으로 선택한 제품은 이거다]]  ([Notion](https://app.notion.com/p/3767aa4b7b0f81a281bfd756684d50c3) · [YouTube](https://youtu.be/03UXOXwflME))
+### [【직업 스킨케어가 선택한】효과가 저렴한 가격대가 아닌 화장품, 여드름과 모공으로 선택한 제품은 이거다.](https://app.notion.com/p/3767aa4b7b0f81a281bfd756684d50c3)  ([YouTube](https://youtu.be/03UXOXwflME))
 
 **총평** — 미백과 여드름 자국 개선에 적합
 
@@ -63,7 +91,7 @@ videos: 7
 - 빠른 효과 체감
 - 가벼운 제형
 
-### [[비타민 계열 스킨케어 전체 리뷰. 다양한 의견이 있으니까!]]  ([Notion](https://app.notion.com/p/3767aa4b7b0f81cc8b52fb9b478fefb6) · [YouTube](https://youtu.be/I_cuFilsEeg))
+### [비타민 계열 스킨케어 전체 리뷰. 다양한 의견이 있으니까!](https://app.notion.com/p/3767aa4b7b0f81cc8b52fb9b478fefb6)  ([YouTube](https://youtu.be/I_cuFilsEeg))
 
 **총평** — 가성비 좋은 미백 제품으로 추천, 하지만 개인차가 큼.
 
@@ -74,7 +102,7 @@ videos: 7
 **부정**
 - 개인차 큼
 
-### [[【인생 재구매 없는 스킨케어】효과는 어디로 돈은 하수구로. ※죄송합니다]]  ([Notion](https://app.notion.com/p/3767aa4b7b0f81aeb263ea8289bf6956) · [YouTube](https://youtu.be/wVBeFTVbKI0))
+### [【인생 재구매 없는 스킨케어】효과는 어디로? 돈은 하수구로. ※죄송합니다](https://app.notion.com/p/3767aa4b7b0f81aeb263ea8289bf6956)  ([YouTube](https://youtu.be/wVBeFTVbKI0))
 
 **총평** — 추천 — 다양한 성분과 조합 시 효과적
 

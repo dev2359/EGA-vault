@@ -4,6 +4,7 @@ title: "EDo 스킨 부스터"
 brands: []
 categories: []
 efficacies: ["보습", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!]]  ([Notion](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48) · [YouTube](https://youtu.be/gogjmCW6sW8))
+### [【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48)  ([YouTube](https://youtu.be/gogjmCW6sW8))
 
 **총평** — EDo 스킨 부스터는 PDRN과 EGF 성분이 포함되어 7일간 사용 시 피부의 수분량과 탄력을 크게 개선할 수 있는 제품.
 

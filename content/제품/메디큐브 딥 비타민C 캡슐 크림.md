@@ -4,6 +4,7 @@ title: "메디큐브 딥 비타민C 캡슐 크림"
 brands: ["메디큐브"]
 categories: ["크림"]
 efficacies: ["모공"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!]]  ([Notion](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883) · [YouTube](https://youtu.be/1yMTtm-98r0))
+### [【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883)  ([YouTube](https://youtu.be/1yMTtm-98r0))
 
 **총평** — 크림 2위. 비타민C 6.5% + 글리신글리신 + 나이아신아마이드 함유. 크림인데도 비타민C를 효과적으로 피부에 전달하는 점이 차별점. 메디큐브 인상 자체를 뒤집은 케이스로 모공에 특히 효과적.
 

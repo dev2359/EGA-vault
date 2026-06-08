@@ -4,6 +4,7 @@ title: "루루룬 하이드 EX"
 brands: []
 categories: ["팩"]
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,6 +20,6 @@ videos: 1
 
 ## 에가의 평가
 
-### [[재구매 없는 팩 랭킹]]  ([Notion](https://www.notion.so/3667aa4b7b0f81f983f6d986d90bda4c) · [YouTube](https://youtu.be/k6xysIY7_Uk))
+### [재구매 없는 팩 랭킹](https://www.notion.so/3667aa4b7b0f81f983f6d986d90bda4c)  ([YouTube](https://youtu.be/k6xysIY7_Uk))
 
 **총평** — 루루룬 하이드 EX는 리뷰에서 거의 다뤄지지 않아 평가를 내리기 어려움.

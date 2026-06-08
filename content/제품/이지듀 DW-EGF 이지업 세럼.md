@@ -4,6 +4,7 @@ title: "이지듀 DW-EGF 이지업 세럼"
 brands: ["이지듀"]
 categories: ["세럼"]
 efficacies: ["각질", "주름/탄력", "피부결"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9) · [YouTube](https://youtu.be/alnn_BvOGV4))
+### [【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9)  ([YouTube](https://youtu.be/alnn_BvOGV4))
 
 **총평** — 칙칙함과 피부 결 개선에는 효과적이나 에탄올 함유로 따가움·붉어짐 자극 가능성이 있는 각질케어형 화장수
 

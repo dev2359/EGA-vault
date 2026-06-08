@@ -4,6 +4,7 @@ title: "메디큐브 PDRN 핑크 시카 토너"
 brands: ["메디큐브"]
 categories: ["토너"]
 efficacies: ["보습", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10】고민하지 마세요‼︎ 엄선한 제품은 이거밖에 없음‼︎ 품질로 승부하는 제품 소개함‼︎ 메가 세일]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81ed8775f790ae405685) · [YouTube](https://youtu.be/M6I_LhCPn2Y))
+### [【Qoo10】고민하지 마세요‼︎ 엄선한 제품은 이거밖에 없음‼︎ 품질로 승부하는 제품 소개함‼︎ 메가 세일](https://www.notion.so/Qoo10-3617aa4b7b0f81ed8775f790ae405685)  ([YouTube](https://youtu.be/M6I_LhCPn2Y))
 
 **총평** — 다양한 피부 타입에 적합한 보습 토너로 추천. 민감한 피부에도 안전하게 사용 가능.
 

@@ -4,6 +4,7 @@ title: "메디힐 T3 PDRN"
 brands: ["메디힐"]
 categories: []
 efficacies: ["진정", "트러블/여드름"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】드디어 제 추천 제품을 공개합니다.❌광고]]  ([Notion](https://app.notion.com/p/Qoo10-3767aa4b7b0f81d3915ed202fc49e629) · [YouTube](https://youtu.be/bJ1POueeaNA))
+### [【Qoo10 메가 세일】드디어 제 추천 제품을 공개합니다.❌광고](https://app.notion.com/p/Qoo10-3767aa4b7b0f81d3915ed202fc49e629)  ([YouTube](https://youtu.be/bJ1POueeaNA))
 
 **총평** — 메디힐 티트리 팩은 특히 붉은 여드름에 효과적이며.
 

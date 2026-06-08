@@ -4,6 +4,7 @@ title: "룰루룬 하이드라 V 마스크"
 brands: []
 categories: ["마스크"]
 efficacies: ["주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【최근 인기 제품】확실히 평가해본다. 나는 사용하지 않을 거야. 기대 이하였던 화장품]]  ([Notion](https://app.notion.com/p/3797aa4b7b0f81f5b048eca0f1ec255b) · [YouTube](https://youtu.be/yURTgUSlr9I))
+### [【최근 인기 제품】확실히 평가해본다. 나는 사용하지 않을 거야. 기대 이하였던 화장품](https://app.notion.com/p/3797aa4b7b0f81f5b048eca0f1ec255b)  ([YouTube](https://youtu.be/yURTgUSlr9I))
 
 **총평** — 루루룬 하이드라브이 마스크는 성분은 좋지만 즉각적인 효과를 기대하기는 어려운 제품.
 

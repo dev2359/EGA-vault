@@ -4,6 +4,7 @@ title: "VT 레티날 캡슐 크림"
 brands: ["VT"]
 categories: ["크림"]
 efficacies: ["모공", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편]]  ([Notion](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621) · [YouTube](https://youtu.be/0xVGuKlKB3I))
+### [【Qoo10】내가 실제로 구매한 제품을 소개할게. 부스터 프로 전언 철회 편](https://www.notion.so/Qoo10-3657aa4b7b0f81149e22e977d11a6621)  ([YouTube](https://youtu.be/0xVGuKlKB3I))
 
 **총평** — VT 레티날 캡슐 크림은 레티날과 11종의 펩타이드가 함유되어 모공 개선에 효과적이지만, 제품의 포장 방식이 레티날의 안정성을 저해할 수 있어 아쉬움이 남습ㅁ.
 

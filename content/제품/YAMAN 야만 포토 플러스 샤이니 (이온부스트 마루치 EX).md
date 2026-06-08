@@ -4,6 +4,7 @@ title: "YAMAN 야만 포토 플러스 샤이니 (이온부스트 마루치 EX)"
 brands: []
 categories: []
 efficacies: ["모공"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 야만의 다기능 미용기기, 69,300엔. 비타민C 유도체 침투 "7배" 표기를 가진 유일한 일본 미용기기 (다른 일본 기기는 성분 표기 거의 없음). 에가가 "지금 본 것 중에서 1번 좋아 보인다" 첫인상 평가. 단 본인 실사용 결과 광고만큼의 크레이터·모공 효과는 X (광고 과장). 클리닉 미용기기 베이스 설계로 모드 다양.
 

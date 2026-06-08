@@ -4,6 +4,7 @@ title: "성분에디터 그린 토마토 NMN 앰플"
 brands: ["성분에디터"]
 categories: ["앰플"]
 efficacies: ["모공", "주름/탄력", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9) · [YouTube](https://youtu.be/ASTKI_nU1Sg))
+### [【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요.](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9)  ([YouTube](https://youtu.be/ASTKI_nU1Sg))
 
 **총평** — 그린 토마토 추출물 68만 ppm + 나이아신아마이드 2% + 안티세바움P 0.5% + NMN 1%. 사용감 좋고 NMN 나노화 기술 우수. 단 모공 효과는 본인 기준 체감 부족 — 광고만큼 모공 닫히는 효과 X. 진정 효과는 일부 체감.
 

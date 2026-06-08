@@ -4,6 +4,7 @@ title: "EX 올카밍 토너"
 brands: []
 categories: ["토너"]
 efficacies: ["각질", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9) · [YouTube](https://youtu.be/alnn_BvOGV4))
+### [【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9)  ([YouTube](https://youtu.be/alnn_BvOGV4))
 
 **총평** — 추천 — 피부 진정 효과가 있지만 에탄올로 인한 자극 가능성 있음
 

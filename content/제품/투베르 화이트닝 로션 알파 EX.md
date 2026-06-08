@@ -4,6 +4,7 @@ title: "투베르 화이트닝 로션 알파 EX"
 brands: ["투베르"]
 categories: []
 efficacies: ["미백", "트러블/여드름", "피지"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【최대 공개】내 피부 상태를 생생하게 보여줍니다. 매일 스킨케어]]  ([Notion](https://app.notion.com/p/3797aa4b7b0f81f8aa01c636c19939ee) · [YouTube](https://youtu.be/RBzdwwROt0g))
+### [【최대 공개】내 피부 상태를 생생하게 보여줍니다. 매일 스킨케어](https://app.notion.com/p/3797aa4b7b0f81f8aa01c636c19939ee)  ([YouTube](https://youtu.be/RBzdwwROt0g))
 
 **총평** — 미백과 여드름 개선에 적합
 

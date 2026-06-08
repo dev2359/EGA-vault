@@ -3,7 +3,8 @@ type: 제품
 title: "VT 리들샷"
 brands: ["VT"]
 categories: []
-efficacies: ["진정"]
+efficacies: []
+aliases: []
 videos: 2
 ---
 
@@ -11,7 +12,7 @@ videos: 2
 
 
 
-브랜드: [[VT]] · 효능: [[진정]]
+브랜드: [[VT]]
 
 
 > 2개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 2
 
 ## 에가의 평가
 
-### [[【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!]]  ([Notion](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883) · [YouTube](https://youtu.be/1yMTtm-98r0))
+### [【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883)  ([YouTube](https://youtu.be/1yMTtm-98r0))
 
 **총평** — 번외편 (세럼과 크림의 중간). 1샷 700엔으로 1회 사용에 피부가 극적으로 변하는 인상. 도입 세럼인지 세럼인지 크림인지 분류 애매하지만 효과 면에서 번외 베스코스급. VT 가 진지하게 소비자를 고려해 만들기 시작한 첫 product 으로 의미 깊음.
 
@@ -35,7 +36,7 @@ videos: 2
 **차별점**
 - 針(니들) + 활성 성분 직접 전달 방식 — 작년 cosRX 가 가져간 위치를 올해 VT 가 가져갈 가능성
 
-### [[【최대 공개】내 피부 상태를 생생하게 보여줍니다. 매일 스킨케어]]  ([Notion](https://app.notion.com/p/3797aa4b7b0f81f8aa01c636c19939ee) · [YouTube](https://youtu.be/RBzdwwROt0g))
+### [【최대 공개】내 피부 상태를 생생하게 보여줍니다. 매일 스킨케어](https://app.notion.com/p/3797aa4b7b0f81f8aa01c636c19939ee)  ([YouTube](https://youtu.be/RBzdwwROt0g))
 
 **총평** — 피부 침투 촉진에 적합, 통증 동반
 

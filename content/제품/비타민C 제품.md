@@ -4,6 +4,7 @@ title: "비타민C 제품"
 brands: []
 categories: []
 efficacies: ["각질", "모공"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【메가 세일 전에 미안】진짜로 피부가 변한 스킨케어를 소개합니다. Qoo10에서 구매할 수 있는 제품도 있어요]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f8107a955da0575e2b09a) · [YouTube](https://youtu.be/dIOA1JTy5K8))
+### [【메가 세일 전에 미안】진짜로 피부가 변한 스킨케어를 소개합니다. Qoo10에서 구매할 수 있는 제품도 있어요.](https://app.notion.com/p/Qoo10-3797aa4b7b0f8107a955da0575e2b09a)  ([YouTube](https://youtu.be/dIOA1JTy5K8))
 
 **총평** — 피부 톤 개선과 모공 축소에 적합
 

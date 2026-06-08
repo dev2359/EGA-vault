@@ -4,6 +4,7 @@ title: "클레어스 PDRN 제품"
 brands: ["클레어스"]
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】구매 전에 꼭 봐야 할 영상. 광고에서 자주 보는 제품을 철저히 분석하는 모임]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f810eb6c6f32cf57e70dc) · [YouTube](https://youtu.be/LbtL5rjiH_A))
+### [【Qoo10 메가 세일】구매 전에 꼭 봐야 할 영상. 광고에서 자주 보는 제품을 철저히 분석하는 모임.](https://www.notion.so/Qoo10-3617aa4b7b0f810eb6c6f32cf57e70dc)  ([YouTube](https://youtu.be/LbtL5rjiH_A))
 
 **총평** — 추천하지 않음. 성분의 투명성과 효과를 중시하는 소비자에게는 적합하지 않음.
 

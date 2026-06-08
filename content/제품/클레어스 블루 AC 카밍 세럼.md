@@ -4,6 +4,7 @@ title: "클레어스 블루 AC 카밍 세럼"
 brands: ["클레어스"]
 categories: ["세럼"]
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9) · [YouTube](https://youtu.be/ASTKI_nU1Sg))
+### [【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요.](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9)  ([YouTube](https://youtu.be/ASTKI_nU1Sg))
 
 **총평** — 나이아신아마이드·트라넥삼산·아데노신 등 성분은 다양하지만 효과 체감 부족. 미드나잇 블루 카밍 크림과 같은 블루 라인이지만 세럼 버전은 리피 없음.
 

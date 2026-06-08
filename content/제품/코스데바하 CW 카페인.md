@@ -4,6 +4,7 @@ title: "코스데바하 CW 카페인"
 brands: ["코스데바하"]
 categories: []
 efficacies: ["미백"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[福袋 사용법 영상!! 구매해 주신 모든 분들 감사함!!]]  ([Notion](https://www.notion.so/3657aa4b7b0f812cb4a0d2144273a84b) · [YouTube](https://youtu.be/8L1LwuRi7XA))
+### [福袋 사용법 영상!! 구매해 주신 모든 분들 감사함!!](https://www.notion.so/3657aa4b7b0f812cb4a0d2144273a84b)  ([YouTube](https://youtu.be/8L1LwuRi7XA))
 
 **총평** — 코스데바하 CW 카페인은 카페인 함량을 10%에서 2%로 줄였지만, 여전히 다른 성분의 효과를 방해하지 않으며, 다양한 미백 성분과 함께 피부에 자극을 주지 않는 제품.
 

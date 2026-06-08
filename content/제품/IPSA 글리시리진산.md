@@ -3,7 +3,8 @@ type: 제품
 title: "IPSA 글리시리진산"
 brands: ["IPSA"]
 categories: []
-efficacies: ["진정", "트러블/여드름"]
+efficacies: ["진정"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[IPSA]] · 효능: [[진정]], [[트러블-여드름]]
+브랜드: [[IPSA]] · 효능: [[진정]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【학생도 이해할 수 있음‼︎】붉은 기와 여드름에 좋은 성분은 이거다‼︎ 성분표가 재미있어질 거예요!!]]  ([Notion](https://www.notion.so/3657aa4b7b0f817984cdfb466925c120) · [YouTube](https://youtu.be/ZJtxrY6CWvY))
+### [【학생도 이해할 수 있음‼︎】붉은 기와 여드름에 좋은 성분은 이거다‼︎ 성분표가 재미있어질 거예요!!](https://www.notion.so/3657aa4b7b0f817984cdfb466925c120)  ([YouTube](https://youtu.be/ZJtxrY6CWvY))
 
 **총평** — IPSA 글리시리진산은 주로 염증을 억제하는 성분으로, 특히 피부의 붉은 기를 빠르게 완화하는 데 효과적.
 

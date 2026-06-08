@@ -4,6 +4,7 @@ title: "SHIMBI METHOD 더마세럼 글루타티온"
 brands: ["SHIMBI METHOD"]
 categories: ["세럼"]
 efficacies: ["미백", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!]]  ([Notion](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48) · [YouTube](https://youtu.be/gogjmCW6sW8))
+### [【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48)  ([YouTube](https://youtu.be/gogjmCW6sW8))
 
 **총평** — SHIMBI METHOD 더마세럼 글루타티온은 3%의 고농도 글루타티온을 함유하여 피부 미백과 항산화 효과를 극대화하며, 다른 비타민 성분과 함께 사용 시 효과를 더욱 높일 수 있는 제품.
 

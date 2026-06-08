@@ -4,6 +4,7 @@ title: "플라즈마 샷 부스터 (Plasma Shot Booster)"
 brands: []
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -16,7 +17,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 저온 플라즈마 + 일렉트로포레이션 결합 신상 미용기기. "이온 유입 600% 초월" 표기 (저온 플라즈마 + 일렉트로포레이션 동시 적용). 플라즈마는 미용의료에서도 사용되며 분자·원자 배열을 일시적으로 흐트러뜨려 성분 침투를 돕는 기술. 게스트 의사 평: "플라즈마가 있어서 끌리지만 다른 기능이 EMS만 있고 부족 — 일렉트로포레이션은 더 우월하므로 굳이 사야 할 이유 부족."
 

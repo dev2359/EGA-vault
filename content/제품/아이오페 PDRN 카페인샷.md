@@ -4,6 +4,7 @@ title: "아이오페 PDRN 카페인샷"
 brands: ["아이오페"]
 categories: []
 efficacies: ["모공", "보습", "주름/탄력"]
+aliases: []
 videos: 3
 ---
 
@@ -19,7 +20,7 @@ videos: 3
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!]]  ([Notion](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48) · [YouTube](https://youtu.be/gogjmCW6sW8))
+### [【Qoo10 메가 세일】이번에 대박이다. 최고의 특가가 있다. 꼭 확인해봐!](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48)  ([YouTube](https://youtu.be/gogjmCW6sW8))
 
 **총평** — 피부 탄력 개선에 추천
 
@@ -33,7 +34,7 @@ videos: 3
 - 고농도의 PDRN 포함
 - EGF와 함께 사용 시 효과 극대화
 
-### [[【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다]]  ([Notion](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981) · [YouTube](https://youtu.be/pyMmS6B2Yvo))
+### [【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다.](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981)  ([YouTube](https://youtu.be/pyMmS6B2Yvo))
 
 **총평** — 세럼(PDRN/안티에이징) 2위 — 후쿠부쿠로 입선. 단일 사용 시 체감 변화가 압도적 (피부톤 균일화 효과). 나노캡슐 침투력 우수. 단, 6000엔으로 비싼 가격대 — 가성비로는 아누아 PDRN 이 위. 후쿠부쿠로 입선이라 2025 베스코스에서는 제외.
 
@@ -52,7 +53,7 @@ videos: 3
 
 **성분** — PDRN, 카페인
 
-### [[【2025 베스트 코스】최고로 좋았던 제품들 소개할게요!!!!]]  ([Notion](https://www.notion.so/2025-36c7aa4b7b0f811387aae35dbc7357fe) · [YouTube](https://youtu.be/ZNeZWys5a0w))
+### [【2025 베스트 코스】최고로 좋았던 제품들 소개할게요!!!!](https://www.notion.so/2025-36c7aa4b7b0f811387aae35dbc7357fe)  ([YouTube](https://youtu.be/ZNeZWys5a0w))
 
 **총평** — 후쿠부쿠로 입선 — 베스코스 후보에서 제외. 작년 (2024) 평가는 세럼(PDRN/안티에이징) 2위로 등장. 단일 사용 시 체감 변화 압도적 (피부톤 균일화). 후쿠부쿠로 입선이라 2025 베스코스에서는 자동 제외.
 

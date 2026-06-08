@@ -3,7 +3,8 @@ type: 제품
 title: "VT 레티노이드"
 brands: ["VT"]
 categories: []
-efficacies: ["각질", "주름/탄력"]
+efficacies: ["주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[VT]] · 효능: [[각질]], [[주름-탄력]]
+브랜드: [[VT]] · 효능: [[주름-탄력]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9) · [YouTube](https://youtu.be/alnn_BvOGV4))
+### [【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9)  ([YouTube](https://youtu.be/alnn_BvOGV4))
 
 **총평** — 이번 영상 최대 메인 — 그라나크티브 레티노이드(HPR) 0.1% 함유로 저자극이면서 피부 개선 체감이 큰 에센스형 레티노이드
 

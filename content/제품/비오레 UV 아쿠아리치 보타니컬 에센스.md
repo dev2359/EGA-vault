@@ -4,6 +4,7 @@ title: "비오레 UV 아쿠아리치 보타니컬 에센스"
 brands: ["비오레"]
 categories: ["선크림", "에센스", "크림"]
 efficacies: ["자외선차단"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【선크림・세안】역시 이거 사게 되.. 돈키호테 대량 구매]]  ([Notion](https://www.notion.so/3647aa4b7b0f81b8b88fe071b79c4094) · [YouTube](https://youtu.be/j9vdGiGMYWU))
+### [【선크림・세안】역시 이거 사게 되.. 돈키호테 대량 구매.](https://www.notion.so/3647aa4b7b0f81b8b88fe071b79c4094)  ([YouTube](https://youtu.be/j9vdGiGMYWU))
 
 **총평** — 일상적인 상황에서 충분한 자외선 차단 효과를 발휘하며, 사용감이 우수함
 

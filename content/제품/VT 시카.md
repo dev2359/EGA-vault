@@ -3,7 +3,8 @@ type: 제품
 title: "VT 시카"
 brands: ["VT"]
 categories: []
-efficacies: ["보습", "진정", "트러블/여드름"]
+efficacies: ["보습", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[VT]] · 효능: [[보습]], [[진정]], [[트러블-여드름]]
+브랜드: [[VT]] · 효능: [[보습]], [[진정]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】여드름 특집‼️ 진심으로 고민했기에 전할 수 있는 이야기!!]]  ([Notion](https://app.notion.com/p/Qoo10-3767aa4b7b0f813ab1e0deeccd3dab8d) · [YouTube](https://youtu.be/q30p3Msmj2g))
+### [【Qoo10 메가 세일】여드름 특집‼️ 진심으로 고민했기에 전할 수 있는 이야기!!](https://app.notion.com/p/Qoo10-3767aa4b7b0f813ab1e0deeccd3dab8d)  ([YouTube](https://youtu.be/q30p3Msmj2g))
 
 **총평** — VT SK는 대용량에 비해 가격이 저렴하고, 염증을 효과적으로 억제하는 제품으로 추천됨. 특히, 지정 피부를 가진 사람들에게는 얇게 바르는 것이 좋으며, 베타지지 않고 수분감이 느껴지는 젤 타입의 제품.
 

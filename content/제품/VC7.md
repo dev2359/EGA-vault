@@ -4,6 +4,7 @@ title: "VC7"
 brands: []
 categories: ["밤"]
 efficacies: ["모공"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2024년 상반기】클렌징 밤 전체 리뷰 해봤음]]  ([Notion](https://www.notion.so/2024-3607aa4b7b0f8172a75ce0dd28b20d4a) · [YouTube](https://youtu.be/GUd0Q-2i5b0))
+### [【2024년 상반기】클렌징 밤 전체 리뷰 해봤음](https://www.notion.so/2024-3607aa4b7b0f8172a75ce0dd28b20d4a)  ([YouTube](https://youtu.be/GUd0Q-2i5b0))
 
 **총평** — 모공 관리에 효과적인 제품으로 추천. 가격 대비 성능을 중시하는 사람에게 적합함
 

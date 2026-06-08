@@ -4,6 +4,7 @@ title: "토리든 비타민C 세럼"
 brands: ["토리든"]
 categories: ["세럼"]
 efficacies: ["피부결"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다]]  ([Notion](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981) · [YouTube](https://youtu.be/pyMmS6B2Yvo))
+### [【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다.](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981)  ([YouTube](https://youtu.be/pyMmS6B2Yvo))
 
 **총평** — 베스코스 미진입 (단순 비교). 피부결 개선 효과 좋지만 베스코스 라인업 대비 임팩트 약함. 1회는 사용해볼 만한 제품.
 

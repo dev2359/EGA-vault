@@ -3,7 +3,8 @@ type: 제품
 title: "메라노CC 피지 비타민C"
 brands: ["메라노CC"]
 categories: []
-efficacies: ["모공", "피부결", "피지"]
+efficacies: ["피부결", "피지"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[메라노CC]] · 효능: [[모공]], [[피부결]], [[피지]]
+브랜드: [[메라노CC]] · 효능: [[피부결]], [[피지]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【메가 세일 전에 미안】진짜로 피부가 변한 스킨케어를 소개합니다. Qoo10에서 구매할 수 있는 제품도 있어요]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f8107a955da0575e2b09a) · [YouTube](https://youtu.be/dIOA1JTy5K8))
+### [【메가 세일 전에 미안】진짜로 피부가 변한 스킨케어를 소개합니다. Qoo10에서 구매할 수 있는 제품도 있어요.](https://app.notion.com/p/Qoo10-3797aa4b7b0f8107a955da0575e2b09a)  ([YouTube](https://youtu.be/dIOA1JTy5K8))
 
 **총평** — 메라노CC 피지 비타민C는 피부 톤을 밝게 하고 모공을 덜 두드러지게 하는 데 효과적.
 

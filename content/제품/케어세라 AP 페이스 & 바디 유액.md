@@ -4,6 +4,7 @@ title: "케어세라 AP 페이스 & 바디 유액"
 brands: ["케어세라"]
 categories: []
 efficacies: ["모공", "보습", "장벽", "트러블/여드름"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!]]  ([Notion](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883) · [YouTube](https://youtu.be/1yMTtm-98r0))
+### [【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883)  ([YouTube](https://youtu.be/1yMTtm-98r0))
 
 **총평** — 크림 3위. 로토제약 케어세라 라인. 세라마이드 함유 유액으로 피부 장벽 강화 + 여드름 발생 억제. 얼굴은 얇게 발라야 모공 안전하며 건조한 몸/얼굴에 효과 압권. NEW 라인업 출시 버전.
 

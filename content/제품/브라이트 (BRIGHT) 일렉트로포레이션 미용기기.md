@@ -4,6 +4,7 @@ title: "브라이트 (BRIGHT) 일렉트로포레이션 미용기기"
 brands: []
 categories: []
 efficacies: ["각질"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 에가 + 게스트가 파나소닉과 함께 투톱으로 추천한 미용기기, 58,000엔. 일렉트로포레이션 (전기 침투) 기술이 메인 — 피부 자질층 (각질층) 침투 강조. LP 페이지의 피부 메커니즘 설명이 "다른 제품보다 자세하다"고 호평. 결론: "디자인 빼고 기능·효과 비교 시 본인은 브라이트 갈 수도" 라는 게스트 평. 단 임상 근거·데이터 표기는 파나소닉 우위.
 

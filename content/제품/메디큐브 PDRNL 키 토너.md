@@ -4,6 +4,7 @@ title: "메디큐브 PDRNL 키 토너"
 brands: ["메디큐브"]
 categories: ["토너"]
 efficacies: ["보습", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[내가 진짜 애용하는 제품을 모두 보여줄게! 나이트 루틴]]  ([Notion](https://www.notion.so/3647aa4b7b0f8123aa93f7afbdfcf8f8) · [YouTube](https://youtu.be/A-jNBiIZE5k))
+### [내가 "진짜 애용하는" 제품을 모두 보여줄게! 나이트 루틴.](https://www.notion.so/3647aa4b7b0f8123aa93f7afbdfcf8f8)  ([YouTube](https://youtu.be/A-jNBiIZE5k))
 
 **총평** — 추천, 수분 공급이 필요한 피부에 적합
 

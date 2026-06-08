@@ -3,7 +3,8 @@ type: 제품
 title: "애플민트 AHBHA 10% 토너"
 brands: []
 categories: ["토너"]
-efficacies: ["각질", "진정", "트러블/여드름"]
+efficacies: ["각질", "트러블/여드름"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-효능: [[각질]], [[진정]], [[트러블-여드름]] · 카테고리: [[토너]]
+효능: [[각질]], [[트러블-여드름]] · 카테고리: [[토너]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!]]  ([Notion](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883) · [YouTube](https://youtu.be/1yMTtm-98r0))
+### [【2023 베스트 화장품】올해의 최강 제품들을 소개합니다‼️‼️ 고민 많이 했어요!](https://www.notion.so/2023-36c7aa4b7b0f8108af15fd8ed4299883)  ([YouTube](https://youtu.be/1yMTtm-98r0))
 
 **총평** — 추천 — 각질 제거와 여드름 피부에 적합
 

@@ -4,6 +4,7 @@ title: "메디큐브 부스터 Pro mini"
 brands: ["메디큐브"]
 categories: []
 efficacies: ["미백", "주름/탄력", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 메디큐브 부스터 Pro 라인 컴팩트·가성비 entry, 12,900엔. "구매할지 가장 망설이는 사람이 많을" 가격대 — 크림·세럼 하나 가격으로 미용기기 진입 가능. 리뉴얼 버전이며 "통증 없이 침투율을 높여 6.2배 강한 잡티 제거" 광고 (LP 표현 다소 공격적). 미용기기 입문용 + 가성비.
 

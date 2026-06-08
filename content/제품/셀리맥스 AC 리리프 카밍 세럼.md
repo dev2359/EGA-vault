@@ -4,6 +4,7 @@ title: "셀리맥스 AC 리리프 카밍 세럼"
 brands: ["셀리맥스"]
 categories: ["세럼"]
 efficacies: ["미백", "진정", "피지"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】꼭 사용해야 할‼︎ 상반기 베스트 코스메틱 소개합니다]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2) · [YouTube](https://youtu.be/z8f3dx5eZnA))
+### [【Qoo10 메가 세일】"꼭 사용해야 할‼︎" 상반기 베스트 코스메틱 소개합니다](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2)  ([YouTube](https://youtu.be/z8f3dx5eZnA))
 
 **총평** — 셀리맥스 (CELIMAX) 의 AC 리리프 카밍 세럼. 福袋 (후쿠부쿠로) 포함 제품 → 단품 발매. 마즈 엑기스 + 나이아신아마이드 2% + 비타민C 에틸 1% + 글리치르리진산 디칼륨 0.5% + 아데노신 + 판테놀 + 토코페롤. 지성 피부의 AC/시카 계열 세럼 중 가장 사용 편함. 미백 + 항염증 + 진정 균형 우수. 마스트 바이.
 

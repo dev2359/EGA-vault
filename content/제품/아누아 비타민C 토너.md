@@ -4,6 +4,7 @@ title: "아누아 비타민C 토너"
 brands: ["아누아"]
 categories: ["토너"]
 efficacies: ["미백"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9) · [YouTube](https://youtu.be/ASTKI_nU1Sg))
+### [【Qoo10 메가 세일】저는 이걸 사지 않지만, 당신에게는 맞을지도 몰라요.](https://www.notion.so/Qoo10-3727aa4b7b0f81528980eec4f87d90e9)  ([YouTube](https://youtu.be/ASTKI_nU1Sg))
 
 **총평** — 비타민C 효과 체감 가능한 토너. 가벼운 사용감이 장점 — 메라노CC 사용감 부담스러운 사람에게 추천. 단, 직접적 미백 효과는 메라노CC 압승. 2,800+ 리뷰에 부정평가 거의 없는 가성비 제품이지만 본인은 효과 체감 부족.
 

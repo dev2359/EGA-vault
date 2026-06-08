@@ -4,6 +4,7 @@ title: "아누아 PDRN 페플라이트 페어 옴므"
 brands: ["아누아"]
 categories: []
 efficacies: ["주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다]]  ([Notion](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981) · [YouTube](https://youtu.be/pyMmS6B2Yvo))
+### [【2024 베스트 코스메틱】올해의 최강 제품들을 부문별로 발표합니다!! 풍작의 해가 끝났습니다.](https://www.notion.so/2024-36c7aa4b7b0f81c9ba71dc2878577981)  ([YouTube](https://youtu.be/pyMmS6B2Yvo))
 
 **총평** — 세럼(PDRN/안티에이징) 1위 — 후쿠부쿠로 미입선이지만 객관적 1위. 단일 사용보다는 주변 스킨케어와 혼합 시 효과 강화. 가성비 측면에서 아이오페 카페인샷보다 우위. 30대 전후 이상에게 강력 추천.
 

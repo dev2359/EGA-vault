@@ -4,6 +4,7 @@ title: "VT 시카 레티놀 파워업 세럼"
 brands: ["VT"]
 categories: ["세럼"]
 efficacies: ["모공", "장벽", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9) · [YouTube](https://youtu.be/XyihsXZYe1k))
+### [【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9)  ([YouTube](https://youtu.be/XyihsXZYe1k))
 
 **총평** — 피부 개선을 원하는 사용자에게 추천. 자극 없이 효과적인 개선을 원하는 사람에게 적합.
 

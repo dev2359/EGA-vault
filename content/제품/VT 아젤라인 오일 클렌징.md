@@ -4,6 +4,7 @@ title: "VT 아젤라인 오일 클렌징"
 brands: ["VT"]
 categories: ["오일", "클렌징"]
 efficacies: ["각질", "모공", "피부결"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9) · [YouTube](https://youtu.be/XyihsXZYe1k))
+### [【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9)  ([YouTube](https://youtu.be/XyihsXZYe1k))
 
 **총평** — 오일 클렌징으로 향이 매우 강하지만 사용감과 결과는 우수. 모공보다 2003배 작은 엑솜 성분 + 아젤라인산 + AHA/PHA/BHA/LHA 조합으로 모공 깊숙이 침투하고 표면 각질 케어까지 동시에. 사용 후 매끄러움이 뛰어남.
 

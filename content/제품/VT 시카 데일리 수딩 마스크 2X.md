@@ -4,6 +4,7 @@ title: "VT 시카 데일리 수딩 마스크 2X"
 brands: ["VT"]
 categories: ["마스크"]
 efficacies: ["보습", "장벽", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9) · [YouTube](https://youtu.be/XyihsXZYe1k))
+### [【Qoo10 메가 세일】압도적으로 추천‼︎ 엄격한 기준으로 한국 화장품 선별이 시작된다‼︎](https://www.notion.so/Qoo10-3617aa4b7b0f81fa9c02f2350a8d29c9)  ([YouTube](https://youtu.be/XyihsXZYe1k))
 
 **총평** — 이전엔 비추천했으나 적극 재구매로 변경된 리뉴얼 제품. 호카(병풀) 성분 2배 + 알란토인 농도↑ + 세라마이드/판테놀 추가로 매일 사용 가능 진정 마스크가 됨. 시트 질도 개선되어 거의 마스크팩 패치 수준.
 

@@ -4,6 +4,7 @@ title: "VC 레티 스무스 세럼"
 brands: []
 categories: ["세럼"]
 efficacies: ["주름/탄력", "피부결"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】이번에는 눈여겨볼 제품이 너무 많아요‼️ 꼭 확인해야 할 상품]]  ([Notion](https://www.notion.so/Qoo10-3617aa4b7b0f81c997f4dc678aecb90f) · [YouTube](https://youtu.be/kUN74qaqfTA))
+### [【Qoo10 메가 세일】이번에는 눈여겨볼 제품이 너무 많아요‼️ 꼭 확인해야 할 상품](https://www.notion.so/Qoo10-3617aa4b7b0f81c997f4dc678aecb90f)  ([YouTube](https://youtu.be/kUN74qaqfTA))
 
 **총평** — 추천함. 피부 탄력 개선이 필요한 20대 후반에서 30대 초반에게 적합함.
 

@@ -4,6 +4,7 @@ title: "스킨아쿠아 UV 스프레이"
 brands: ["스킨아쿠아"]
 categories: ["선크림", "크림"]
 efficacies: ["자외선차단", "장벽"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【절대 알아야 할!!】선크림을 선택하기 전에 알아야 할 것들에 대해 이야기합니다]]  ([Notion](https://www.notion.so/3677aa4b7b0f81f2923cd3d4e1d73746) · [YouTube](https://youtu.be/qTbkwujCCiI))
+### [【절대 알아야 할!!】선크림을 선택하기 전에 알아야 할 것들에 대해 이야기합니다.](https://www.notion.so/3677aa4b7b0f81f2923cd3d4e1d73746)  ([YouTube](https://youtu.be/qTbkwujCCiI))
 
 **총평** — 스킨아쿠아 UV 스프레이는 에탄올 함량이 높아 피부 장벽을 손상시킬 수 있지만, 자외선 차단 효과는 뛰어난 제품.
 

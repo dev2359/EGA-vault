@@ -4,6 +4,7 @@ title: "네이처리퍼블릭 비타민C 크림"
 brands: []
 categories: ["크림"]
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 재구매 없음 & 강등】내가 사지 않는 것들.. 졸업]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f817a98dcdd0fe106870b) · [YouTube](https://youtu.be/gTU6hLpZvts))
+### [【Qoo10 재구매 없음 & 강등】내가 사지 않는 것들.. 졸업](https://app.notion.com/p/Qoo10-3797aa4b7b0f817a98dcdd0fe106870b)  ([YouTube](https://youtu.be/gTU6hLpZvts))
 
 **총평** — 네이처리퍼블릭 비타민C 크림은 비타민C가 포함되어 있어 매일 사용하기에 적합하며, 피부를 신선하게 유지하는 데 도움이 됨.
 

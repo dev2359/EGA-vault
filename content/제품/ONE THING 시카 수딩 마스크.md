@@ -4,6 +4,7 @@ title: "ONE THING 시카 수딩 마스크"
 brands: ["ONE THING"]
 categories: ["마스크"]
 efficacies: ["보습", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】새로운 제품이 대박‼️꼭 확인해야 할 아이템]]  ([Notion](https://app.notion.com/p/Qoo10-3797aa4b7b0f81ebb3abf15e6545da7a) · [YouTube](https://youtu.be/aJdv9v87KDk))
+### [【Qoo10 메가 세일】새로운 제품이 대박‼️꼭 확인해야 할 아이템](https://app.notion.com/p/Qoo10-3797aa4b7b0f81ebb3abf15e6545da7a)  ([YouTube](https://youtu.be/aJdv9v87KDk))
 
 **총평** — ONE THING 시카 수딩 마스크는 얼굴의 붉은 기를 완화하고 수분을 공급하여 피부를 촉촉하게 만들어주는 제품으로, 최근 사용한 마스크 중 가장 뛰어난 제품으로 평가받고 있음.
 

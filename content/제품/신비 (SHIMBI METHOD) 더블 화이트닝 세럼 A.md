@@ -4,6 +4,7 @@ title: "신비 (SHIMBI METHOD) 더블 화이트닝 세럼 A"
 brands: ["SHIMBI METHOD"]
 categories: ["세럼"]
 efficacies: ["미백", "진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】꼭 사용해야 할‼︎ 상반기 베스트 코스메틱 소개합니다]]  ([Notion](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2) · [YouTube](https://youtu.be/z8f3dx5eZnA))
+### [【Qoo10 메가 세일】"꼭 사용해야 할‼︎" 상반기 베스트 코스메틱 소개합니다](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2)  ([YouTube](https://youtu.be/z8f3dx5eZnA))
 
 **총평** — 신비/神備 의 신작 미백 세럼. 의약외품. 4종 약용 성분 — 비타민C 유도체 (L-아스코르빈산 글루코사이드) + 알부틴 + 트라넥삼산 + 글리치르리진산 디칼륨. 미백 (알부틴 + 비타민C 유도체) + 항염증 (트라넥삼산 + 글리치르리진산). 저자극인데 미백 효과 천천히 체감 + 붉은기 억제 + 피부 토대 작성감 압도적. 화자 평: "여름 미백용으로 만든 듯".
 

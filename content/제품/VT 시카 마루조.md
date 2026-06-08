@@ -3,7 +3,8 @@ type: 제품
 title: "VT 시카 마루조"
 brands: ["VT"]
 categories: []
-efficacies: ["보습", "장벽", "트러블/여드름"]
+efficacies: ["보습", "장벽"]
+aliases: []
 videos: 1
 ---
 
@@ -11,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[VT]] · 효능: [[보습]], [[장벽]], [[트러블-여드름]]
+브랜드: [[VT]] · 효능: [[보습]], [[장벽]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[여드름 극복 스킨케어 공개! 짜증이 멈추지 않아]]  ([Notion](https://www.notion.so/3607aa4b7b0f817989ffe0adb095108a) · [YouTube](https://youtu.be/4Q5rv9LfIe0))
+### [여드름 극복 스킨케어 공개! 짜증이 멈추지 않아.](https://www.notion.so/3607aa4b7b0f817989ffe0adb095108a)  ([YouTube](https://youtu.be/4Q5rv9LfIe0))
 
 **총평** — 보습과 피부 장벽 강화가 필요한 사람에게 추천.
 

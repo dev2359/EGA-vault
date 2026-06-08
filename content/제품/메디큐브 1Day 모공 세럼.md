@@ -4,6 +4,7 @@ title: "메디큐브 1Day 모공 세럼"
 brands: ["메디큐브"]
 categories: ["세럼"]
 efficacies: ["모공"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[광고에서 자주 보는 【수상한 제품 4선】을 철저히 리뷰해보자]]  ([Notion](https://app.notion.com/p/4-3797aa4b7b0f813fab0cf0d39b66cf9e) · [YouTube](https://youtu.be/w2Rg400A0ZY))
+### [광고에서 자주 보는 【수상한 제품 4선】을 철저히 리뷰해보자.](https://app.notion.com/p/4-3797aa4b7b0f813fab0cf0d39b66cf9e)  ([YouTube](https://youtu.be/w2Rg400A0ZY))
 
 **총평** — 작은 모공 개선에 적합
 

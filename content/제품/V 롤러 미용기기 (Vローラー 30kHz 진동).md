@@ -4,6 +4,7 @@ title: "V 롤러 미용기기 (Vローラー 30kHz 진동)"
 brands: []
 categories: []
 efficacies: ["주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — V 롤러 형태 미용기기, 30kHz 주파수 진동. 1초당 약 2만 회 진동으로 마사지 효과. 게스트 의사 평: "이 시린 사람 (치아 통증 있는 사람) 에게 좋을 수 있다" — 진동이 다른 통증을 분산시키는 효과. EMS 단독으로 피부 탄력·턱 라인 개선은 "거의 무리." 일시적 슈팅 효과만 가능.
 

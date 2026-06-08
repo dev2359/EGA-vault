@@ -4,6 +4,7 @@ title: "이지듀 DW-EGF 비타 PDRN 토닝 세럼"
 brands: ["이지듀"]
 categories: ["세럼"]
 efficacies: ["미백", "주름/탄력"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[福袋 사용법 영상!! 구매해 주신 모든 분들 감사함!!]]  ([Notion](https://www.notion.so/3657aa4b7b0f812cb4a0d2144273a84b) · [YouTube](https://youtu.be/8L1LwuRi7XA))
+### [福袋 사용법 영상!! 구매해 주신 모든 분들 감사함!!](https://www.notion.so/3657aa4b7b0f812cb4a0d2144273a84b)  ([YouTube](https://youtu.be/8L1LwuRi7XA))
 
 **총평** — 이지듀 DW-EGF 비타 PDRN 토닝 세럼은 사용 후 피부의 탄력과 투명감이 개선되어 많은 사용자들이 놀랄 정도로 효과적.
 

@@ -4,6 +4,7 @@ title: "IPSA TIME AQUA"
 brands: ["IPSA"]
 categories: ["토너"]
 efficacies: ["보습"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2000명 설문조사】최악의 토너 랭킹과 그 사람이 구매한 최고의 화장품]]  ([Notion](https://www.notion.so/2000-3667aa4b7b0f815d9aadd276981534bf) · [YouTube](https://youtu.be/qyL94OCKTQo))
+### [【2000명 설문조사】최악의 토너 랭킹과 그 사람이 구매한 최고의 화장품](https://www.notion.so/2000-3667aa4b7b0f815d9aadd276981534bf)  ([YouTube](https://youtu.be/qyL94OCKTQo))
 
 **총평** — IPSA TIME AQUA는 고급스러운 디자인과 기술을 갖췄지만, 효과를 느끼지 못했다는 평가가 많아 가성비가 낮다는 의견이 주를 이룹니다.
 

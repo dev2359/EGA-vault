@@ -4,6 +4,7 @@ title: "IPSA AQUA PRESENTER"
 brands: ["IPSA"]
 categories: ["토너"]
 efficacies: ["보습"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【2000명 설문조사】최악의 토너 랭킹과 그 사람이 구매한 최고의 화장품]]  ([Notion](https://www.notion.so/2000-3667aa4b7b0f815d9aadd276981534bf) · [YouTube](https://youtu.be/qyL94OCKTQo))
+### [【2000명 설문조사】최악의 토너 랭킹과 그 사람이 구매한 최고의 화장품](https://www.notion.so/2000-3667aa4b7b0f815d9aadd276981534bf)  ([YouTube](https://youtu.be/qyL94OCKTQo))
 
 **총평** — IPSA AQUA PRESENTER는 피부 상태에 따라 수분을 자동으로 조절하는 기술이 포함되어 있지만, 보습력이 낮다는 평가가 많습니다.
 

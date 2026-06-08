@@ -4,6 +4,7 @@ title: "쿼드 셀러 (Quad Cellar)"
 brands: []
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -16,7 +17,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 히트쇼크프로테인 (열로 자가면역 강화) + 초음파 미용기기. 정가 72,000엔, 타임세일 시 37,800엔까지 인하. 화상 환자 75% 회복 연구 논문 인용 — 단, "그 논문이 있다는 것이지 이 기기로 그런 효과가 나는 건 아니다"라고 게스트 의사가 선 그음. 초음파는 미용의료에서도 쓰는 기술이나 출력 수치가 낮음. 글로우 M 크라이오소닉과 같은 가격이면 차가운 쪽을 선택할 듯.
 

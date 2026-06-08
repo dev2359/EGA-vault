@@ -4,6 +4,7 @@ title: "메라노CC 프리미엄"
 brands: ["메라노CC"]
 categories: ["세럼"]
 efficacies: ["미백", "자외선차단"]
+aliases: []
 videos: 2
 ---
 
@@ -19,7 +20,7 @@ videos: 2
 
 ## 에가의 평가
 
-### [[【결과 발표】 인생에서 가장 별로였던 세럼은 무엇일까 4000명의 대답]]  ([Notion](https://www.notion.so/4000-3677aa4b7b0f819ea6f7d17177ff9512) · [YouTube](https://youtu.be/Ul9TxuH6GAs))
+### [【결과 발표】 "인생에서 가장 별로였던" 세럼은 무엇일까? 4000명의 대답](https://www.notion.so/4000-3677aa4b7b0f819ea6f7d17177ff9512)  ([YouTube](https://youtu.be/Ul9TxuH6GAs))
 
 **총평** — 비추천, 사용 후 피부 붉어짐, 자극 발생
 
@@ -27,7 +28,7 @@ videos: 2
 - 사용 후 피부 붉어짐
 - 자극 발생
 
-### [[비타민 계열 스킨케어 전체 리뷰. 다양한 의견이 있으니까!]]  ([Notion](https://app.notion.com/p/3767aa4b7b0f81cc8b52fb9b478fefb6) · [YouTube](https://youtu.be/I_cuFilsEeg))
+### [비타민 계열 스킨케어 전체 리뷰. 다양한 의견이 있으니까!](https://app.notion.com/p/3767aa4b7b0f81cc8b52fb9b478fefb6)  ([YouTube](https://youtu.be/I_cuFilsEeg))
 
 **총평** — 추천 — 보통 메라노CC는 효과가 미미했으나 프리미엄은 미백 측면에서 매우 우수하다고 호평
 

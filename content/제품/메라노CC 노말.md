@@ -4,6 +4,7 @@ title: "메라노CC 노말"
 brands: ["메라노CC"]
 categories: ["세럼"]
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【결과 발표】 인생에서 가장 별로였던 세럼은 무엇일까 4000명의 대답]]  ([Notion](https://www.notion.so/4000-3677aa4b7b0f819ea6f7d17177ff9512) · [YouTube](https://youtu.be/Ul9TxuH6GAs))
+### [【결과 발표】 "인생에서 가장 별로였던" 세럼은 무엇일까? 4000명의 대답](https://www.notion.so/4000-3677aa4b7b0f819ea6f7d17177ff9512)  ([YouTube](https://youtu.be/Ul9TxuH6GAs))
 
 **총평** — 메라노CC 노말은 비타민 C 성분으로 인해 피부 자극을 유발할 수 있으며, 특히 18세 미만과 19-24세 사용자들에게 부정적인 평가를 받았음.
 

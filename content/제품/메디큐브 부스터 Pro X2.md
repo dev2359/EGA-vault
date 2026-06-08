@@ -4,6 +4,7 @@ title: "메디큐브 부스터 Pro X2"
 brands: ["메디큐브"]
 categories: []
 efficacies: []
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 메디큐브 부스터 Pro 라인 최신 플래그십. 마스크 모드 + 더마샷 X2 + 부스터 + 마이크로커런트 + 에어샷 X2 풀패키지. "전부 다 들어있다"는 의미에서 풀패키지 미용기기로 평가. 단 효과는 일시적 마사지·표면 침투 수준. 헤드가 커서 넓은 부위 사용 편의성 우수. "독자 연구소·박사 설계" 마케팅 카피는 구체 근거 부족. 게스트 의사 평: "기능 자체로는 메디큐브가 패키지로는 가장 우수."
 

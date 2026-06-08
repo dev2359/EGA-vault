@@ -4,6 +4,7 @@ title: "글로우 M 크라이오소닉 프리미엄 쿨링 미용기기"
 brands: []
 categories: []
 efficacies: ["진정"]
+aliases: []
 videos: 1
 ---
 
@@ -19,7 +20,7 @@ videos: 1
 
 ## 에가의 평가
 
-### [[【Qoo10 메가 세일】미용기기, 도대체 의미가 있나 전문가의 시선으로 구매한 이 제품이다‼︎]]  ([Notion](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856) · [YouTube](https://youtu.be/Xoo9FnAQqo8))
+### [【Qoo10 메가 세일】미용기기, 도대체 의미가 있나? "전문가의 시선으로 구매한" 이 제품이다‼︎](https://www.notion.so/Qoo10-36e7aa4b7b0f81c984dbd3917d674856)  ([YouTube](https://youtu.be/Xoo9FnAQqo8))
 
 **총평** — 글로우 M 의 차가운 (cryogenic) 기능 탑재 미용기기, 185,900엔. 살롱 동일 30kHz 주파수. "차가운 기능을 가진 미용기기가 드물어서 신기"하다는 게스트 평. 차가운 기능 + 일렉트로포레이션 + 이온 도입 + LED 동시 가능. 단, 18.5만엔 가격은 부담 — "이 돈이면 성형(매몰법)도 할 수 있는 수준" 농담. 비싼 가격이지만 차가운 기능에 가치 부여 시 매력 있음.
 
