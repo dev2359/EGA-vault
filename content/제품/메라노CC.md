@@ -4,7 +4,7 @@ title: "메라노CC"
 brands: ["메라노CC"]
 categories: ["세럼", "토너", "팩"]
 efficacies: ["모공", "미백", "진정", "트러블/여드름"]
-aliases: ["메라노 CC"]
+aliases: []
 videos: 9
 ---
 
@@ -16,7 +16,6 @@ videos: 9
 
 
 > 9개 영상에서 다룸. 봇이 신규 학습 시 갱신.
-> 표기 병합: 메라노 CC
 
 
 ## 에가의 평가
