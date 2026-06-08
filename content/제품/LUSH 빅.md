@@ -1,18 +1,18 @@
 ---
 type: 제품
-title: "러쉬 빅"
-brands: ["러쉬"]
+title: "LUSH 빅"
+brands: ["LUSH"]
 categories: []
 efficacies: ["피지"]
 aliases: []
 videos: 1
 ---
 
-# 러쉬 빅
+# LUSH 빅
 
 
 
-브랜드: [[러쉬]] · 효능: [[피지]]
+브랜드: [[LUSH]] · 효능: [[피지]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
