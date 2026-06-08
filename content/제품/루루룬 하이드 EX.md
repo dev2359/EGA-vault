@@ -1,7 +1,7 @@
 ---
 type: 제품
 title: "루루룬 하이드 EX"
-brands: []
+brands: ["루루룬"]
 categories: ["팩"]
 efficacies: []
 aliases: []
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-카테고리: [[팩]]
+브랜드: [[루루룬]] · 카테고리: [[팩]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
