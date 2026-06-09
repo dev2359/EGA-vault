@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "아스리즘 UV 스프레이"
+title: "비오레 UV 아스리즘 스킨 프로텍트 스프레이"
 brands: ["아스리즘"]
 categories: ["선크림", "크림"]
 efficacies: ["자외선차단", "장벽"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 아스리즘 UV 스프레이
+# 비오레 UV 아스리즘 스킨 프로텍트 스프레이
 
 
 
