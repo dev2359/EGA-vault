@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "ONE THING 병풀"
+title: "ONE THING 어성초 추출물"
 brands: ["ONE THING"]
 categories: []
 efficacies: ["트러블/여드름", "피지"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# ONE THING 병풀
+# ONE THING 어성초 추출물
 
 
 
