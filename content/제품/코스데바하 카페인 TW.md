@@ -1,18 +1,18 @@
 ---
 type: 제품
-title: "코스테바 카페인 TW"
-brands: []
+title: "코스데바하 카페인 TW"
+brands: ["코스데바하"]
 categories: []
 efficacies: ["미백"]
 aliases: []
 videos: 1
 ---
 
-# 코스테바 카페인 TW
+# 코스데바하 카페인 TW
 
 
 
-효능: [[미백]]
+브랜드: [[코스데바하]] · 효능: [[미백]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
