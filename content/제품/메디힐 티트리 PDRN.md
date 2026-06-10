@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "메디힐 T3 PDRN"
+title: "메디힐 티트리 PDRN"
 brands: ["메디힐"]
 categories: []
 efficacies: ["진정", "트러블/여드름"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 메디힐 T3 PDRN
+# 메디힐 티트리 PDRN
 
 
 
