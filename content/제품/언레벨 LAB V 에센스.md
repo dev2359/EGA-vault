@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "언레벨 LAB VC 에센스"
+title: "언레벨 LAB V 에센스"
 brands: ["언레벨"]
 categories: ["세럼", "에센스"]
 efficacies: []
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 언레벨 LAB VC 에센스
+# 언레벨 LAB V 에센스
 
 
 

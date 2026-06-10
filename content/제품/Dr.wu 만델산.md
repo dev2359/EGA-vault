@@ -1,24 +1,31 @@
 ---
 type: 제품
-title: "닥터우"
-brands: []
-categories: []
-efficacies: ["각질", "진정", "트러블/여드름"]
+title: "Dr.wu 만델산"
+brands: ["Dr.wu"]
+categories: ["세럼"]
+efficacies: ["각질", "보습", "진정", "트러블/여드름"]
 aliases: []
-videos: 1
+videos: 2
 ---
 
-# 닥터우
+# Dr.wu 만델산
 
 
 
-효능: [[각질]], [[진정]], [[트러블-여드름]]
+브랜드: [[Dr.wu]] · 효능: [[각질]], [[보습]], [[진정]], [[트러블-여드름]] · 카테고리: [[세럼]]
 
 
-> 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 2개 영상에서 다룸. 봇이 신규 학습 시 갱신.
 
 
 ## 에가의 평가
+
+### [【초유료급‼︎】4000명이 선택한 "역대 최고의 세럼" 피부 타입별 랭킹](https://www.notion.so/4000-3647aa4b7b0f8140ba5dfb4818c9ae56)  ([YouTube](https://youtu.be/VEGSotjE9k8))
+
+**총평** — 보습과 진정이 필요한 피부에 추천. 건조한 피부에 적합함.
+
+**긍정**
+- 피부 보습과 진정 효과가 우수함
 
 ### [【Qoo10 메가 세일】드디어 제 추천 제품을 공개합니다.❌광고](https://app.notion.com/p/Qoo10-3767aa4b7b0f81d3915ed202fc49e629)  ([YouTube](https://youtu.be/bJ1POueeaNA))
 
