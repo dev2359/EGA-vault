@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "V 롤러 미용기기 (Vローラー 30kHz 진동)"
+title: "V 롤러 미용기기 (V롤러 30kHz 진동)"
 brands: []
 categories: []
 efficacies: ["주름/탄력"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# V 롤러 미용기기 (Vローラー 30kHz 진동)
+# V 롤러 미용기기 (V롤러 30kHz 진동)
 
 
 
