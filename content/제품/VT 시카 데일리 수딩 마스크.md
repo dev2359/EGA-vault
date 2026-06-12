@@ -1,18 +1,18 @@
 ---
 type: 제품
-title: "A VT"
+title: "VT 시카 데일리 수딩 마스크"
 brands: ["VT"]
-categories: ["팩"]
-efficacies: []
+categories: ["마스크", "팩"]
+efficacies: ["진정"]
 aliases: []
 videos: 1
 ---
 
-# A VT
+# VT 시카 데일리 수딩 마스크
 
 
 
-브랜드: [[VT]] · 카테고리: [[팩]]
+브랜드: [[VT]] · 효능: [[진정]] · 카테고리: [[마스크]], [[팩]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
