@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "VT 시카 레티놀 파워업 세럼"
+title: "VT 시카 레티놀 포어업 세럼"
 brands: ["VT"]
 categories: ["세럼"]
 efficacies: ["모공", "장벽", "주름/탄력"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# VT 시카 레티놀 파워업 세럼
+# VT 시카 레티놀 포어업 세럼
 
 
 

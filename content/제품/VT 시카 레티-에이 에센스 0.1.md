@@ -1,24 +1,34 @@
 ---
 type: 제품
-title: "VT 레티노이드"
+title: "VT 시카 레티-에이 에센스 0.1"
 brands: ["VT"]
-categories: []
-efficacies: ["주름/탄력"]
+categories: ["에센스"]
+efficacies: ["장벽", "주름/탄력"]
 aliases: []
-videos: 1
+videos: 2
 ---
 
-# VT 레티노이드
+# VT 시카 레티-에이 에센스 0.1
 
 
 
-브랜드: [[VT]] · 효능: [[주름-탄력]]
+브랜드: [[VT]] · 효능: [[장벽]], [[주름-탄력]] · 카테고리: [[에센스]]
 
 
-> 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 2개 영상에서 다룸. 봇이 신규 학습 시 갱신.
 
 
 ## 에가의 평가
+
+### [【Qoo10 메가 세일】새로운 제품이 대박‼️꼭 확인해야 할 아이템](https://app.notion.com/p/Qoo10-3797aa4b7b0f81ebb3abf15e6545da7a)  ([YouTube](https://youtu.be/aJdv9v87KDk))
+
+**총평** — 추천 — 건성 피부에 적합
+
+**긍정**
+- 자극이 적고 부드러운 사용감
+
+**차별점**
+- 세라마이드와 레티놀 조합으로 피부 장벽 강화
 
 ### [【Qoo10 메가 세일】많은 제품 중에서 특별한 두 가지가 있다. 꼭 사야 해! (광고 아님❌)](https://app.notion.com/p/Qoo10-3797aa4b7b0f81fbb981d39c6722f5e9)  ([YouTube](https://youtu.be/alnn_BvOGV4))
 
