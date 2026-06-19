@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "투베르 화이트닝 로션 알파 EX"
+title: "투베르 약용 화이트닝 로션 알파 EX"
 brands: ["투베르"]
 categories: []
 efficacies: ["모공", "미백", "트러블/여드름"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 투베르 화이트닝 로션 알파 EX
+# 투베르 약용 화이트닝 로션 알파 EX
 
 
 
