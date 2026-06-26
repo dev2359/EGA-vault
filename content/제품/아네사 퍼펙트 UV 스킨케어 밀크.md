@@ -5,7 +5,7 @@ brands: ["아네사"]
 categories: ["선크림", "크림"]
 efficacies: ["자외선차단"]
 aliases: []
-videos: 2
+videos: 3
 ---
 
 # 아네사 퍼펙트 UV 스킨케어 밀크
@@ -15,10 +15,18 @@ videos: 2
 브랜드: [[아네사]] · 효능: [[자외선차단]] · 카테고리: [[선크림]], [[크림]]
 
 
-> 2개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 3개 영상에서 다룸. 봇이 신규 학습 시 갱신.
 
 
 ## 에가의 평가
+
+### [진짜 방어용 선크림, 하와이에 뭐 챙겨갔을까?](https://www.notion.so/3607aa4b7b0f81a5bb21c4480bbbc559)  ([YouTube](https://youtu.be/R6FTe-7V53g))
+
+**총평** — 향과 내수성을 중시하는 사용자에게 추천
+
+**긍정**
+- 향이 좋음
+- 물과 마찰에 강함
 
 ### [진짜 방어용 선크림, 하와이에 뭐 챙겨갔을까?](https://www.notion.so/3607aa4b7b0f81a5bb21c4480bbbc559)  ([YouTube](https://youtu.be/R6FTe-7V53g))
 
