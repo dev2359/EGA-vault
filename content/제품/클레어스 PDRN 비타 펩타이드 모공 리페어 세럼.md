@@ -1,18 +1,18 @@
 ---
 type: 제품
-title: "클레어스 PDRN 제품"
+title: "클레어스 PDRN 비타 펩타이드 모공 리페어 세럼"
 brands: ["클레어스"]
-categories: []
-efficacies: []
+categories: ["세럼"]
+efficacies: ["모공", "주름/탄력"]
 aliases: []
 videos: 1
 ---
 
-# 클레어스 PDRN 제품
+# 클레어스 PDRN 비타 펩타이드 모공 리페어 세럼
 
 
 
-브랜드: [[클레어스]]
+브랜드: [[클레어스]] · 효능: [[모공]], [[주름-탄력]] · 카테고리: [[세럼]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
