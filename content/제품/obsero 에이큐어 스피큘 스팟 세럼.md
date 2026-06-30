@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "obsero 스키퓰 스팟 세럼"
+title: "obsero 에이큐어 스피큘 스팟 세럼"
 brands: ["obsero"]
 categories: ["세럼"]
 efficacies: ["트러블/여드름"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# obsero 스키퓰 스팟 세럼
+# obsero 에이큐어 스피큘 스팟 세럼
 
 
 
@@ -31,4 +31,4 @@ videos: 1
 - 미발매·미사용
 - 자극(따끔함)이 클 것으로 예상
 
-**성분** — 해조류 스피큘, 트러블 케어 유효성분
+**성분** — PDRN 스피큘, 트러블 케어 유효성분
