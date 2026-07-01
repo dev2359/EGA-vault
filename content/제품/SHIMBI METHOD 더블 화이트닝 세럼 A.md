@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "신비 (SHIMBI METHOD) 더블 화이트닝 세럼 A"
+title: "SHIMBI METHOD 더블 화이트닝 세럼 A"
 brands: ["SHIMBI METHOD"]
 categories: ["세럼"]
 efficacies: ["미백", "진정"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 신비 (SHIMBI METHOD) 더블 화이트닝 세럼 A
+# SHIMBI METHOD 더블 화이트닝 세럼 A
 
 
 

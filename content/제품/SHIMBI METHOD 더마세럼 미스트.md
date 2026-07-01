@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "신비 (SHIMBI METHOD) 더마 세럼 미스트"
+title: "SHIMBI METHOD 더마세럼 미스트"
 brands: ["SHIMBI METHOD"]
 categories: ["미스트", "세럼"]
 efficacies: ["미백", "보습", "주름/탄력", "진정", "피부결"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 5
 ---
 
-# 신비 (SHIMBI METHOD) 더마 세럼 미스트
+# SHIMBI METHOD 더마세럼 미스트
 
 
 

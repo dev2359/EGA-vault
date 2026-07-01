@@ -1,18 +1,18 @@
 ---
 type: 제품
-title: "모공 달래기 파운데이션"
-brands: []
-categories: []
+title: "하다비세이 CHOI 마스크"
+brands: ["하다비세이"]
+categories: ["마스크"]
 efficacies: ["모공"]
 aliases: []
 videos: 1
 ---
 
-# 모공 달래기 파운데이션
+# 하다비세이 CHOI 마스크
 
 
 
-효능: [[모공]]
+브랜드: [[하다비세이]] · 효능: [[모공]] · 카테고리: [[마스크]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
