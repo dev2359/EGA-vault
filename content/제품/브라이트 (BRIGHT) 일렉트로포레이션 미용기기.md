@@ -2,8 +2,8 @@
 type: 제품
 title: "브라이트 (BRIGHT) 일렉트로포레이션 미용기기"
 brands: []
-categories: []
-efficacies: ["각질"]
+categories: ["디바이스"]
+efficacies: []
 aliases: []
 videos: 1
 ---
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[각질]]
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

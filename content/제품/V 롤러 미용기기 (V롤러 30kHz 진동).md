@@ -2,8 +2,8 @@
 type: 제품
 title: "V 롤러 미용기기 (V롤러 30kHz 진동)"
 brands: []
-categories: []
-efficacies: ["주름/탄력"]
+categories: ["디바이스"]
+efficacies: []
 aliases: []
 videos: 1
 ---
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[주름-탄력]]
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

@@ -2,8 +2,8 @@
 type: 제품
 title: "모공 케어 클렌징 브러시 (Mini + 브러시 라인)"
 brands: []
-categories: ["클렌징"]
-efficacies: ["모공"]
+categories: ["디바이스"]
+efficacies: []
 aliases: []
 videos: 1
 ---
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[모공]] · 카테고리: [[클렌징]]
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

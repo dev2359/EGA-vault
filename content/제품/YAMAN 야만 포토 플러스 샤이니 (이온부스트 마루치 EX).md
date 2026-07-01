@@ -2,8 +2,8 @@
 type: 제품
 title: "YAMAN 야만 포토 플러스 샤이니 (이온부스트 마루치 EX)"
 brands: []
-categories: []
-efficacies: ["모공"]
+categories: ["디바이스"]
+efficacies: []
 aliases: []
 videos: 1
 ---
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[모공]]
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

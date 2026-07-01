@@ -2,7 +2,7 @@
 type: 제품
 title: "쿼드 셀러 (Quad Cellar)"
 brands: []
-categories: []
+categories: ["디바이스"]
 efficacies: []
 aliases: []
 videos: 1
@@ -10,6 +10,9 @@ videos: 1
 
 # 쿼드 셀러 (Quad Cellar)
 
+
+
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

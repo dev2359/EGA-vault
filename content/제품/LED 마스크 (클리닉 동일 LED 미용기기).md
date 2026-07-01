@@ -2,8 +2,8 @@
 type: 제품
 title: "LED 마스크 (클리닉 동일 LED 미용기기)"
 brands: []
-categories: ["마스크"]
-efficacies: ["주름/탄력", "진정"]
+categories: ["디바이스"]
+efficacies: []
 aliases: []
 videos: 1
 ---
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[주름-탄력]], [[진정]] · 카테고리: [[마스크]]
+카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.

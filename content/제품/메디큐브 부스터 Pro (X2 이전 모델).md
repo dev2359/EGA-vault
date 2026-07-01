@@ -2,7 +2,7 @@
 type: 제품
 title: "메디큐브 부스터 Pro (X2 이전 모델)"
 brands: ["메디큐브"]
-categories: []
+categories: ["디바이스"]
 efficacies: []
 aliases: []
 videos: 1
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-브랜드: [[메디큐브]]
+브랜드: [[메디큐브]] · 카테고리: [[디바이스]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
