@@ -1,7 +1,7 @@
 ---
 type: 제품
 title: "EDo 스킨 부스터"
-brands: []
+brands: ["EDo"]
 categories: []
 efficacies: ["보습", "주름/탄력"]
 aliases: []
@@ -12,7 +12,7 @@ videos: 1
 
 
 
-효능: [[보습]], [[주름-탄력]]
+브랜드: [[EDo]] · 효능: [[보습]], [[주름-탄력]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
