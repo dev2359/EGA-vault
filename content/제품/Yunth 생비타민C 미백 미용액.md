@@ -1,15 +1,18 @@
 ---
 type: 제품
-title: "유스 비타민C 제품"
-brands: []
+title: "Yunth 생비타민C 미백 미용액"
+brands: ["Yunth"]
 categories: []
-efficacies: []
+efficacies: ["미백"]
 aliases: []
 videos: 1
 ---
 
-# 유스 비타민C 제품
+# Yunth 생비타민C 미백 미용액
 
+
+
+브랜드: [[Yunth]] · 효능: [[미백]]
 
 
 > 1개 영상에서 다룸. 봇이 신규 학습 시 갱신.
