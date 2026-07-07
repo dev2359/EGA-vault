@@ -5,7 +5,7 @@ brands: ["ONE THING"]
 categories: ["세럼", "토너"]
 efficacies: ["각질", "진정"]
 aliases: []
-videos: 2
+videos: 3
 ---
 
 # ONE THING 센텔라(병풀) 추출물 토너
@@ -15,7 +15,7 @@ videos: 2
 브랜드: [[ONE THING]] · 효능: [[각질]], [[진정]] · 카테고리: [[세럼]], [[토너]]
 
 
-> 2개 영상에서 다룸. 봇이 신규 학습 시 갱신.
+> 3개 영상에서 다룸. 봇이 신규 학습 시 갱신.
 
 
 ## 에가의 평가
@@ -36,3 +36,7 @@ videos: 2
 - 병풀 추출물 리뉴얼(EGA 콜라보)
 
 **성분** — 센텔라(병풀), 글리시리진산 디칼륨, 알란토인
+
+### [【Qoo10】메가 세일에서 꼭 사야 할 최신 정보!! 복주머니는 빼고!!](https://app.notion.com/p/Qoo10-3967aa4b7b0f81e99f1fdce09c7952b2)  ([YouTube](https://youtu.be/2fMpaLVOUiA))
+
+**총평** — ONE THING 센텔라(병풀) 추출물 토너에 대한 구체적인 평가가 자막에 포함되어 있지 않습니다.
