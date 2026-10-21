@@ -7,9 +7,10 @@ title: "SHIMBI METHOD"
 
 > 이 브랜드를 다룬 영상·제품 자동 집계. 봇이 신규 학습 시 갱신. #브랜드/SHIMBI METHOD
 
-## 언급 제품 (고유 4 · 언급 11)
+## 언급 제품 (고유 5 · 언급 10)
 - [[SHIMBI METHOD 더마세럼 글루타티온]]  (1회)
-- [[SHIMBI METHOD 더마세럼 미스트]]  (5회)
+- [[SHIMBI METHOD 더마세럼 미스트]]  (3회)
+- [[SHIMBI METHOD 더마세럼 카페인 1.5% 보토펩 5%]]  (1회)
 - [[SHIMBI METHOD 더블 화이트닝 세럼 A]]  (3회)
 - [[SHIMBI METHOD 신마 크림]]  (2회)
 
@@ -17,9 +18,8 @@ title: "SHIMBI METHOD"
 - [[SHIMBI METHOD 더마세럼 글루타티온]] — SHIMBI METHOD 더마세럼 글루타티온은 3%의 고농도 글루타티온을 함유하여 피부 미백과 항산화 효과를 극대화하며, 다른 비타민 성분과 함께 사용 시 효과를 더욱 높일 수 있는 제품.  ([노션](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48))
 - [[SHIMBI METHOD 더마세럼 미스트]] — SHIMBI METHOD 더마세럼 미스트는 글루타티온 1% 함유로 피부 미백과 항산화 효과를 제공하지만, 특유의 냄새가 단점으로 작용할 수 있음.  ([노션](https://www.notion.so/Qoo10-3687aa4b7b0f810f84fef6108dc47d48))
 - [[SHIMBI METHOD 더마세럼 미스트]] — 미백과 수분 충전을 원하는 사람에게 추천. 민감한 피부는 패치 테스트 권장.  ([노션](https://www.notion.so/Qoo10-3617aa4b7b0f81ed8775f790ae405685))
-- [[SHIMBI METHOD 더마세럼 미스트]] — 신비(SHIMBI METHOD)의 글루타치온 더마 세럼 미스트(판테놀 2.5% 함유). 여름에 매일 사용했더니 미백과 피부결 정돈이 뛰어났던 미백 부문 추천템. 비타민C 계열 스킨케어와 함께 쓰면 시너지가 좋음.  ([노션](https://www.notion.so/2025-3667aa4b7b0f81f295f0f278d6921327))
-- [[SHIMBI METHOD 더마세럼 미스트]] — SHIMBI METHOD 더마세럼 미스트는 다른 미스트가 필요 없을 정도로 뛰어난 제품으로, 보습뿐만 아니라 성분의 효과를 전달하려는 노력이 돋보.  ([노션](https://www.notion.so/2025-3667aa4b7b0f81bb9990e1e1edef8d65))
 - [[SHIMBI METHOD 더마세럼 미스트]] — 글루타치온 분사형 미백 보조 미스트. 매일 뿌려두기만 해도 피부 윤기·맑기가 확 달라짐. 글루타치온이 보조 역할로 다른 미백 스킨케어(특히 비타민계)의 효과를 끌어올려주는 여름 필수템.  ([노션](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2))
+- [[SHIMBI METHOD 더마세럼 카페인 1.5% 보토펩 5%]] — SHIMBI METHOD 더마세럼 카페인 1.5% 보토펩 5%는 피부의 붉은기와 모공 문제를 개선하는 데 효과적이며, 다양한 피부 고민에 대응할 수 있는 만능 제품.  ([노션](https://app.notion.com/p/Qoo10-3cf7aa4b7b0f819ba58aea94c3b9382d))
 - [[SHIMBI METHOD 더블 화이트닝 세럼 A]] — 신비/神備 의 신작 미백 세럼. 의약외품. 4종 약용 성분 — 비타민C 유도체 (L-아스코르빈산 글루코사이드) + 알부틴 + 트라넥삼산 + 글리치르리진산 디칼륨. 미백 (알부틴 + 비타민C 유도체) + 항염증 (트라넥삼산 + 글리치르리진산). 저자극인데 미백 효과 천천히 체감 + 붉은기 억제 + 피부 토대 작성감 압도적. 화자 평: "여름 미백용으로 만든 듯".  ([노션](https://www.notion.so/Qoo10-3727aa4b7b0f812a9f70dc271b8c92f2))
 - [[SHIMBI METHOD 더블 화이트닝 세럼 A]] — 미백 및 진정에 적합  ([노션](https://app.notion.com/p/3957aa4b7b0f8149ad95e07def8fcf38))
 - [[SHIMBI METHOD 더블 화이트닝 세럼 A]] — 추천 — 다양한 피부 문제 해결에 적합  ([노션](https://app.notion.com/p/3967aa4b7b0f8183ac35f3d4513a2851))
