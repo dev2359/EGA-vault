@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "로트제약 RX -7"
+title: "로토제약 RX -7"
 brands: ["로토제약"]
 categories: []
 efficacies: ["미백", "트러블/여드름"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 로트제약 RX -7
+# 로토제약 RX -7
 
 
 
