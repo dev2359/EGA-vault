@@ -1,6 +1,6 @@
 ---
 type: 제품
-title: "로트제약 메라노CC 마스크"
+title: "로토제약 메라노CC 마스크"
 brands: ["메라노CC"]
 categories: ["마스크"]
 efficacies: ["미백"]
@@ -8,7 +8,7 @@ aliases: []
 videos: 1
 ---
 
-# 로트제약 메라노CC 마스크
+# 로토제약 메라노CC 마스크
 
 
 
